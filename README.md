@@ -7,7 +7,7 @@
   
   <!-- <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=ADAMU+MUHAMMAD+MUHAMMAD;Computer+Science+Student;From+Gombe+State+Nigeria;Software+Engineering+student+@+Alx+hobelton+school&center=true&width=380&height=45"></a>
-</p> -->
+</p> -->      
 </h1>
   
 
@@ -17,11 +17,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Software Engineering at Alx hobelton School**
-
 - 👯 I’m looking to collaborate on **open source project**
 
-- 🤝 I’m looking for help with [Software Engeneering ](https://github.com/Esinnation/personal_Software_Engineering_journey)
+- 🌱 Studying Software Engineering at  **Bayero University Kano.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Esinnation](https://github.com/Esinnation)
 
@@ -30,7 +28,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="http://portfolio-esinnation.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.portfolio-esinnation.vercel.app/?style=flat-square&logo=google-chrome"></a>
+<a href="http://portfolio-esinnation.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.portfolio--esinnation.vercel.app-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/esin-ridollah/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Esin%20Ridollah%20Abdurrazaq-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/esinnation/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Esinnation__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:abdulrazaqridollah96@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-abdulrazaqridollah96@gmail.com-blue?style=flat-square&logo=gmail"></a>
